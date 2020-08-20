@@ -1,0 +1,1 @@
+O objetivo desse projeto é prever a influência de notícias no mercado financeiro, utilizando redes neurais artificiais e processamento de linguagem natural, com o objetivo de aprimorar estratégias de investimentos

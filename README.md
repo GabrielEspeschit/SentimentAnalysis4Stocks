@@ -9,9 +9,10 @@ O mercado de capitais é definido por muitos profissionais do setor como sendo o
 Nesse repositório encontram-se todos os arquivos de programação utilizados no trabalho, bem como o arquivo de dados finais usado (após o processamento léxico). Os arquivos contendo os dados 'crús' não foram carregados devido à limitações do GitHub à tamanho de arquivos. Além disso, nesse repositório temos o estudo completo submetido para UFMG.
 
 ## Referenciando o Trabalho
-BiBTEX:
+
+ 1. BiBTEX:
 @misc{espeschit_2020, title={Algoritmo de Previsão do Mercado de Capitais Utilizando Análise de Sentimentos em Notícias Financeiras}, url={https://zenodo.org/record/4262815}, journal={Zenodo}, author={Espeschit, G. S.}, year={2020}, month={Nov}}
-IEEE:
+ 2. IEEE:
 [1]Espeschit, G. S., “Algoritmo de Previsão do Mercado de Capitais Utilizando Análise de Sentimentos em Notícias Financeiras”, Zenodo, 2020.
 
 
@@ -26,7 +27,7 @@ Financial markets are defined as being objective and analysis oriented by many p
 In this repository are all the programming files used in the work, as well as the final data file used (after the lexical processing). Files containing 'raw' data were not loaded due to GitHub's file size limitations. In addition, in this repository we have the complete study submitted to UFMG.
 
 ## Referencing the Paper
-BiBTEX:
+ 1. BiBTEX:
 @misc{espeschit_2020, title={Algoritmo de Previsão do Mercado de Capitais Utilizando Análise de Sentimentos em Notícias Financeiras}, url={https://zenodo.org/record/4262815}, journal={Zenodo}, author={Espeschit, G. S.}, year={2020}, month={Nov}}
-IEEE:
+ 2. IEEE:
 [1]Espeschit, G. S., “Algoritmo de Previsão do Mercado de Capitais Utilizando Análise de Sentimentos em Notícias Financeiras”, Zenodo, 2020.
